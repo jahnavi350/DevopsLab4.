@@ -12,7 +12,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <groupId>com.example</groupId>
 
-<artifactId>Devopslab4</artifactId>
+<artifactId>DevopsLab4</artifactId>
 
 <version>1.0-SNAPSHOT</version>
 
